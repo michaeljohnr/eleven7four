@@ -14,7 +14,7 @@ html, body {
 }
 
 body {
-    --img-maxwidth: 50%;
+    --img-maxwidth: 30%;
     --filter-img: none;
 	color: var(--color-text);
 	-webkit-font-smoothing: antialiased;
